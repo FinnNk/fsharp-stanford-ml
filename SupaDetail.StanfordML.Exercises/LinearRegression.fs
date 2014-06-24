@@ -17,13 +17,15 @@ let std (X:Matrix<_>) =
     |> Seq.map Statistics.StandardDeviation
     |> vector
 
+let (./) (u:Vector<'a>) (v:Vector<'a>) = u.PointwiseDivide(v)
+
 // 4 Feature normalisation
 let featureNormalise (X:Matrix<_>) = 
     let mu = mean X
     let sigma = std X
 
     X.EnumerateRows()
-    |> Seq.map (fun x -> (x - mu).PointwiseDivide(sigma))
+    |> Seq.map (fun x -> (x - mu) ./ sigma)
     |> DenseMatrix.OfRowVectors
 
 let addIntercept (X:Matrix<_>) = X.InsertColumn (0, DenseVector.Create(X.RowCount, 1.))
