@@ -1,0 +1,15 @@
+C:\coursera\coursework\machine-learning3\FSharp\MOOML\SupaDetail.StanfordML.Exercises\bin\Debug\SupaDetail.StandfordML.Week1.dll.config
+C:\coursera\coursework\machine-learning3\FSharp\MOOML\SupaDetail.StanfordML.Exercises\bin\Debug\MOOML.Week1.XML
+C:\coursera\coursework\machine-learning3\FSharp\MOOML\SupaDetail.StanfordML.Exercises\bin\Debug\SupaDetail.StandfordML.Week1.dll
+C:\coursera\coursework\machine-learning3\FSharp\MOOML\SupaDetail.StanfordML.Exercises\bin\Debug\SupaDetail.StandfordML.Week1.pdb
+C:\coursera\coursework\machine-learning3\FSharp\MOOML\SupaDetail.StanfordML.Exercises\bin\Debug\FSharp.Charting.dll
+C:\coursera\coursework\machine-learning3\FSharp\MOOML\SupaDetail.StanfordML.Exercises\bin\Debug\FSharp.Core.dll
+C:\coursera\coursework\machine-learning3\FSharp\MOOML\SupaDetail.StanfordML.Exercises\bin\Debug\MathNet.Numerics.dll
+C:\coursera\coursework\machine-learning3\FSharp\MOOML\SupaDetail.StanfordML.Exercises\bin\Debug\MathNet.Numerics.FSharp.dll
+C:\coursera\coursework\machine-learning3\FSharp\MOOML\SupaDetail.StanfordML.Exercises\bin\Debug\FSharp.Charting.pdb
+C:\coursera\coursework\machine-learning3\FSharp\MOOML\SupaDetail.StanfordML.Exercises\bin\Debug\FSharp.Charting.xml
+C:\coursera\coursework\machine-learning3\FSharp\MOOML\SupaDetail.StanfordML.Exercises\bin\Debug\MathNet.Numerics.xml
+C:\coursera\coursework\machine-learning3\FSharp\MOOML\SupaDetail.StanfordML.Exercises\bin\Debug\MathNet.Numerics.FSharp.xml
+C:\coursera\coursework\machine-learning3\FSharp\MOOML\SupaDetail.StanfordML.Exercises\bin\Debug\FSharp.Core.xml
+C:\coursera\coursework\machine-learning3\FSharp\MOOML\SupaDetail.StanfordML.Exercises\obj\Debug\SupaDetail.StandfordML.Week1.dll
+C:\coursera\coursework\machine-learning3\FSharp\MOOML\SupaDetail.StanfordML.Exercises\obj\Debug\SupaDetail.StandfordML.Week1.pdb
